@@ -1,1 +1,1 @@
-This repo documents my progress in learning how to design user interfaces in mobile phones with design tools especially with Balsamiq.
+This repo documents my progress in learning how to design user interfaces with design tools especially with Balsamiq.
