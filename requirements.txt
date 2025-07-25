@@ -1,0 +1,4 @@
+1. Balsamiq 
+2. Flaticon
+3. Youtube mobile interface (for the youtube design)
+4. DeKUT student portal (as reference for areas of improving the student portal on mobile devices and also DeKUT corporate colors)
